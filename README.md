@@ -1,4 +1,6 @@
-### Hi there 👋
+### Holanda 👋
+- Ingeniero en automatización de la unversidad de la salle
+- Uso de Java, Kotlin, Matlab simulink, html css3 js
 
 <!--
 **FrogerXD/FrogerXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
