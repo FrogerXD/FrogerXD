@@ -1,8 +1,8 @@
 ### Hi 👋
-- Ingeniero en automatización de la unversidad de la salle
-- Uso de Java, Kotlin, Matlab simulink, html, css3, js, Python,  PLCs (LD, IL, Fb) HMI SCADA
 
-🔭 Estoy estudiando JS, PHP, Python
+Soy ingeniero en automatización de la universidad de la Salle, con capacidades de aprendizaje en múltiples entornos, liderazgo y trabajo en equipo, se manejar diferentes lenguajes de programación, como Matlab Python  Java Kotlin C++ C HTML Css Js, PHP y uso en bases de datos relacional MySQL, PostgreSQL y bases de datos en tiempo real (RTDB). Con conocimientos en diseño asistido por computador CAD por medio de herramientas como AutoCad y Solid Works, diseño de sistemas de control, programación de PLC´s y diseño de interfaces gráficas HMI. Siendo becado por la universidad de la salle desde (2018-2) por poseer el mejor promedio acumulado hasta el último semestre cursado (2022-2). 
+
+🔭 Estoy estudiando JS, PHP, Python, Programación Web y servidores
 <!--
 **FrogerXD/FrogerXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
